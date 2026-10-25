@@ -1,0 +1,20 @@
+RAESSA REPLIT PATCH — PETUNJUK
+
+Paket ini ditujukan untuk workspace Replit lama, bukan untuk menimpa seluruh workspace.
+
+1. Buat checkpoint/backup di Replit terlebih dahulu.
+2. Unggah ZIP ini ke root workspace lama.
+3. Buka Shell dan jalankan:
+
+   unzip -o "Raessa-Replit-Workspace-Patch.zip" -d .
+   rm -f artifacts/raessa-wedding-organizer/public/assets/css/site.css
+   rm -f artifacts/raessa-wedding-organizer/public/assets/js/site.js
+   pnpm --filter @workspace/raessa-wedding-organizer run build
+
+4. Jika build berhasil, jalankan Preview (atau perintah):
+
+   pnpm --filter @workspace/raessa-wedding-organizer run dev
+
+5. Periksa 10 halaman dan interaksi utama. Jika build gagal, jangan publish dulu; simpan pesan error untuk diperiksa.
+
+ZIP ini hanya menimpa file yang terkait website Raessa dan dua konfigurasi website. Ia tidak menghapus artefak workspace lain seperti mockup-sandbox atau library bersama.

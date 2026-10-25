@@ -1,0 +1,40 @@
+RAESSA WEDDING ORGANIZER
+│
+├── Home
+│
+├── About Us
+│
+├── Services
+│   │
+│   ├── Wedding Organizer
+│   │   ├── Full-Service Wedding
+│   │   ├── Partial Planning
+│   │   ├── Wedding Day Coordination
+│   │   └── Custom Wedding
+│   │
+│   │   [Pilihan Konsep di Dalam Halaman]
+│   │   ├── Intimate Wedding
+│   │   ├── Traditional Wedding
+│   │   ├── Outdoor Wedding
+│   │   └── Modern Elegant Wedding
+│   │
+│   ├── Decoration
+│   │   └── Katalog Konsep Dekorasi
+│   │
+│   ├── Makeup
+│   │   └── Bridal Makeup Gallery
+│   │
+│   ├── Gown & Attire
+│   │   └── Katalog Busana & Aksesori
+│   │
+│   └── Catering
+│       ├── Pilihan 250 Porsi
+│       ├── Pilihan 500 Porsi
+│       ├── Pilihan 1.000 Porsi
+│       └── Custom Portions
+│
+├── Portfolio
+├── Testimonials
+├── Contact
+│
+└── [Plan Your Wedding]
